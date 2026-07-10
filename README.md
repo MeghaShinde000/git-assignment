@@ -12,3 +12,6 @@ This is a simple project created to practice Git and GitHub.
 
 ## Author
 Megha Shinde
+
+## Contact
+Email: megha@example.com
